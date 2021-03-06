@@ -13,6 +13,9 @@ The API retrieve the location points from the NASA's database.
 
 [API Doc](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 
+Here is a small demonstration of how it looks once code is run.
+![Adsız](https://user-images.githubusercontent.com/57831340/110215251-c1c69a80-7eb9-11eb-95bf-8c724161447a.png)
+
 ## Here is a small Python Script
 In the code, some popular libraries are utilized so you most likely will not need to download anything special for running this script.
 In case you do not any of them, below you can find the adresses to download.
