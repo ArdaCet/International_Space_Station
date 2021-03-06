@@ -1,4 +1,4 @@
-# International_Space_Station_Finder
+# International Space Station Finder
 Want to know where is the International Space Station (ISS) currently or are you a space enthusiast who enjoys any activity related with it? Here I've created a basic python script which will enable you to see the exact location of ISS.
 
 ## What is ISS
@@ -7,6 +7,7 @@ The International Space Station (ISS) is a modular space station (habitable arti
 ## Here is a small Python Script
 In the code, some popular libraries are utilized so you most likely will not need to download anything special for running this script.
 In case you do not any of them, below you can find the adresses to download.
+
 - [download pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 
 - [download IPython](https://ipython.org/install.html)
@@ -18,8 +19,6 @@ To reach the pipeline:
 
 ## References
 
-element {
-  font-size: 6;
 1. Gary Kitmacher (2006). Reference Guide to the International Space Station. Apogee Books Space Series. Canada: Apogee Books. pp. 71–80. ISBN 978-1-894959-34-6. ISSN 1496-6921.
 2. "Human Spaceflight and Exploration—European Participating States". European Space Agency (ESA). 2009. Retrieved 17 January 2009.
 3. "International Space Station legal framework". European Space Agency (ESA). 19 November 2013. Retrieved 21 February 2015.
@@ -27,4 +26,3 @@ element {
 5. "Fields of Research". NASA. 26 June 2007. Archived from the original on 23 January 2008.
 6. "Getting on Board". NASA. 26 June 2007. Archived from the original on 8 December 2007.  This article incorporates text from this source, which is in the public domain.
 7. "ISS Research Program". NASA. Archived from the original on 13 February 2009. Retrieved 27 February 2009.
-}
