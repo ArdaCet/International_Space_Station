@@ -14,7 +14,8 @@ The API retrieve the location points from the NASA's database.
 [API Doc](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 
 Here is a small demonstration of how it looks once code is run.
-![Adsız](https://user-images.githubusercontent.com/57831340/110215251-c1c69a80-7eb9-11eb-95bf-8c724161447a.png)
+![whereis_ISS_exp_fig](https://user-images.githubusercontent.com/57831340/110215400-a90ab480-7eba-11eb-8b76-8040334c8cfb.png)
+
 The blue dot indicates where currently the international space station is.
 To adjust the color or size of the marker on the world map, visit ```plotly.scatter_geo()``` [documantation](https://plotly.com/python-api-reference/generated/plotly.express.scatter_geo).
 
