@@ -20,4 +20,4 @@ The International Space Station (ISS) is a modular space station (habitable arti
 7. "ISS Research Program". NASA. Archived from the original on 13 February 2009. Retrieved 27 February 2009.
 
 # Here is a small Python Script
-[Click for the script](https://github.com/ArdaCet/International_Space_Station)
+[Click for the script](https://github.com/ArdaCet/International_Space_Station/tree/main/Script)
