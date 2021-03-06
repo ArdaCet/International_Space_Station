@@ -1,4 +1,4 @@
-# International Space Station Finder
+# International Space Station Position Finder
 Want to know where is the International Space Station (ISS) currently or are you a space enthusiast who enjoys any activity related with it? Here I've created a basic python script which will enable you to see the exact location of ISS.
 
 ## What is ISS
