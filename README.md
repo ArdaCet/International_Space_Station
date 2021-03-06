@@ -1,10 +1,17 @@
 # International Space Station Position Finder
 Want to know where is the International Space Station (ISS) currently or are you a space enthusiast who enjoys any activity related with it? Here I've created a basic python script which will enable you to see the exact location of ISS.
 
+Due to the gravitational forces, the space station and all other space stuff rotates around the earth (orbit) with an incredible speed. The International Space Station is moving at close to 28,000 km/h so its location changes really fast! So fast that it just takes 90 minutes to orbits the earth. Soo where is it right now? To find it try the [script](#Here_is_a_small_Python_Script).
+
 ## What is ISS
 Even though space stations are awsome and magnificant, for me, it was difficult to find appropriate words to describe them. Here, I leave a paragraph below to provide some understanding and brief history of international space station which I believe one of the most rare and fabolous instance representing the solidarity of humanity. I feel that citing a part of text from the [wikipedia](https://en.wikipedia.org/wiki/International_Space_Station) would be concise and explanotory for specifying its significance for all of us.
 
 >The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit. It is a multinational collaborative project involving five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada) <sup>[1, 2](#References)</sup>. The ownership and use of the space station is established by intergovernmental treaties and agreements <sup>[3](#References)</sup>. The station serves as a microgravity and space environment research laboratory in which scientific research is conducted in astrobiology, astronomy, meteorology, physics, and other fields <sup>[4, 5, 6](#References)</sup>. The ISS is suited for testing the spacecraft systems and equipment required for possible future long-duration missions to the Moon and Mars <sup>[7](#References)</sup>.
+
+## To acquire the API file for ISS coordinates
+The API retrieve the location points from the NASA's database.
+
+[API Doc](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 
 ## Here is a small Python Script
 In the code, some popular libraries are utilized so you most likely will not need to download anything special for running this script.
@@ -17,7 +24,7 @@ In case you do not any of them, below you can find the adresses to download.
 - [download Plotly](https://plotly.com/python/getting-started/)
 
 To reach the pipeline:
-[Click for the script](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/Whereis_ISS.ipynb)
+[click](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/Whereis_ISS.ipynb)
 
 ## References
 
