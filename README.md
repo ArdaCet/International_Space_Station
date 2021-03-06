@@ -7,9 +7,9 @@ The International Space Station (ISS) is a modular space station (habitable arti
 ## Here is a small Python Script
 In the code, some popular libraries are utilized so you most likely will not need to download anything special for running this script.
 In case you do not any of them, below you can find the adresses to download.
-- [download pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html/)
+- [download pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 
-- [download IPython](https://ipython.org/install.html/)
+- [download IPython](https://ipython.org/install.html)
 
 - [download Plotly](https://plotly.com/python/getting-started/)
 
