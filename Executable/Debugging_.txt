@@ -1,0 +1,9 @@
+1- Specify the missing files at pyinstaller command
+
+> pyinstaller --hidden-import=pkg_resources.py2_warn --hidden-import=pkg_resources.markers
+	-- If error persists, add --clean option
+	-- If error persists, delete second parameter "--hidden-import=pkg_resources.markers"
+
+2- Don't use the one file option
+
+3- Completely copy the plotly package(for me it was Lib\site-packages\plotly) for the python installation directory into the /dist/{exe name}/ directory
