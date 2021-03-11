@@ -33,6 +33,9 @@ In case you do not any of them, below you can find the adresses to download.
 
 - [download Matplotlib](https://matplotlib.org/downloads.html)
 
+- [download Basemap](https://www.lfd.uci.edu/~gohlke/pythonlibs/#basemap/)
+-     Depending on your python version and operating system bit (32 or 64) select the correct wheel file. It's setup instructions [here](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/BaseMap_download.md).
+
 To reach the pipeline:
 [click](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/whereisISS.py)
 
