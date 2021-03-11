@@ -1,10 +1,10 @@
-# Before downloading the executable file.
+### Before downloading the executable file.
   
   - Please refer to this site and download and compressor/decompressor programe 7zip in order to extract the folder, if you don't have 7zip on your computer.
   
   - To download click [here](https://www.7-zip.org/download.html)
   
-# After downloading the ".7zip" folder.
+### After downloading the ".7zip" folder.
   
   - Extract the folder into a desired path on your system.
   
