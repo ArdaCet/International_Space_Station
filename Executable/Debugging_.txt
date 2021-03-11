@@ -6,4 +6,4 @@
 
 2- Don't use the one file option
 
-3- Completely copy the plotly package(for me it was Lib\site-packages\plotly) for the python installation directory into the /dist/{exe name}/ directory
+3- Completely copy the package(s)(for me it was Lib\site-packages\plotly) for the python installation directory into the /dist/{exe name}/ directory, if there are any pointed out at the console
