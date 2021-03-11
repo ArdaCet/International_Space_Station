@@ -11,3 +11,5 @@
 Due to latge size (~130MB) size of the ".exe" it was not plausible to upload to github.
 
 ## To download the '.exe': [here](https://drive.google.com/drive/folders/1DI43JTUtSl70duB2_Vt-QeZgjYCluHwT?usp=sharing)
+ -  The folder named ISS is the uncompressed
+ -  The folder named ISS.7z is the compressed file which you require to have [7zip compressor tool](https://www.7-zip.org/download.html).
