@@ -1,7 +1,9 @@
 # International Space Station Position Finder
 Want to know where is the International Space Station (ISS) currently or are you a space enthusiast who enjoys any activity related with it? Here I've created a basic python script which will enable you to see the exact location of ISS.
 
-Due to the gravitational forces, the space station and all other space stuff rotates around the earth (orbit) with an incredible speed. The International Space Station is moving at close to 28,000 km/h so its location changes really fast! So fast that it just takes 90 minutes to orbits the earth. Soo where is it right now? To find it try the [script](#Here_is_a_small_Python_Script).
+Due to the gravitational forces, the space station and all other space stuff rotates around the earth (orbit) with an incredible speed. The International Space Station is moving at close to 28,000 km/h so its location changes really fast! So fast that it just takes 90 minutes to orbits the earth. Soo where is it right now? To find it try the [script](#Here_is_a_small_Python_Script) or the [executable](#Here_is_a_small_Python_Script).
+
+To learn the dependencies to run the [script](#Here_is_a_small_Python_Script) (This part is not for the ones who just want to start the "whereisISS.exe"!)
 
 ## What is ISS
 Even though space stations are awsome and magnificant, for me, it was difficult to find appropriate words to describe them. Here, I leave a paragraph below to provide some understanding and brief history of international space station which I believe one of the most rare and fabolous instance representing the solidarity of humanity. I feel that citing a part of text from the [wikipedia](https://en.wikipedia.org/wiki/International_Space_Station) would be concise and explanotory for specifying its significance for all of us.
@@ -17,20 +19,29 @@ Here is a small demonstration of how it looks once code is run.
 ![newplot](https://user-images.githubusercontent.com/57831340/110324997-d163f180-8027-11eb-84ad-a859031e9cb1.png)
 
 The blue dot indicates where currently the international space station is.
-To adjust the color or size of the marker on the world map, visit ```plotly.scatter_geo()``` [documantation](https://plotly.com/python-api-reference/generated/plotly.express.scatter_geo).
+To adjust the color or size of the marker on the world map, visit ```plt.basemap()``` [documantation](https://matplotlib.org/basemap/).
 
 ## Here is a small Python Script
-In the code, some popular libraries are utilized so you most likely will not need to download anything special for running this script.
+In the code, some popular libraries are utilized so you most likely will not need to download anything special for running the "exe." file. However if you need to run the script in any interpreter:
 In case you do not any of them, below you can find the adresses to download.
 
 - [download pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 
+- [download numpy](https://numpy.org/install/)
+
 - [download IPython](https://ipython.org/install.html)
 
-- [download Plotly](https://plotly.com/python/getting-started/)
+- [download Matplotlib](https://matplotlib.org/downloads.html)
 
 To reach the pipeline:
 [click](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/Whereis_ISS.ipynb)
+
+or
+
+[click](https://github.com/ArdaCet/International_Space_Station/tree/main/Executable/) to download the executable file on your system without needing any pre-set dependencies or even programming language(s).
+
+## Licenses
+The project is under the MIT licese so it can be used freely but it is not recommended to be used as a scientific purposes because of the possible sensitivity and specificity of the ISS locations data.
 
 ## References
 
