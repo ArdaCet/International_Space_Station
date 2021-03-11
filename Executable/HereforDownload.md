@@ -6,6 +6,6 @@
 
   - You do not need to download any additional thing to run the ".exe".
 
-  - To learn about how to run the ".exe", please click [here]().
+  - To learn about how to run the ".exe", please click [here](https://github.com/ArdaCet/International_Space_Station/blob/main/Executable/Download_Instructions.md).
   
 * Due to latge size (~130MB) size of the ".exe" it was not plausible to upload to github.
