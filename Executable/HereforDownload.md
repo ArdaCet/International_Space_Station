@@ -10,4 +10,4 @@
   
 Due to latge size (~130MB) size of the ".exe" it was not plausible to upload to github.
 
-# To download the '.exe': [here]()
+## To download the '.exe': [here](https://drive.google.com/drive/folders/1DI43JTUtSl70duB2_Vt-QeZgjYCluHwT?usp=sharing)
