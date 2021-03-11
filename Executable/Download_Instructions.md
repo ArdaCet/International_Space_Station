@@ -5,6 +5,8 @@
   - To download click [here](https://www.7-zip.org/download.html)
 
   - However, you have a chance to download the uncompressed folder too which does ot require to download 7zip. However, it is recommended to download the compressed verison.
+
+To download the exe, please [click](https://github.com/ArdaCet/International_Space_Station/blob/main/Executable/HereforDownload.md)
   
 ### After downloading the ".7zip" folder.
   
