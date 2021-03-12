@@ -8,7 +8,7 @@
 
   -  To learn about how to run the ".exe", please click [here](https://github.com/ArdaCet/International_Space_Station/blob/main/Executable/Download_Instructions.md).
   
-Due to latge size (~130MB) size of the ".exe" it was not plausible to upload to github.
+Due to the large size (~130MB) of the compressed folder it was not plausible to upload it directly to github. Hence,the link below will direct you to google drive where both 7zipped and uncompressed versions of the downloadable ISS folder available.
 
 ## To download the '.exe': [here](https://drive.google.com/drive/folders/1DI43JTUtSl70duB2_Vt-QeZgjYCluHwT?usp=sharing)
  -  the folder named ISS is the uncompressed and
