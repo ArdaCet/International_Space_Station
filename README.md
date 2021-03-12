@@ -1,9 +1,9 @@
 # International Space Station Position Finder
 Want to know where is the International Space Station (ISS) currently or are you a space enthusiast who enjoys any activity related with it? Here I've created a basic python script which will enable you to see the exact location of ISS.
 
-Due to the gravitational forces, the space station and all other space stuff rotates around the earth (orbit) with an incredible speed. The International Space Station is moving at close to 28,000 km/h so its location changes really fast! So fast that it just takes 90 minutes to orbits the earth. Soo where is it right now? To find it try the [script](#Here_is_a_small_Python_Script) or the [executable](#Here_is_a_small_Python_Script).
+Due to the gravitational forces, the space station and all other space stuff rotates around the earth (orbit) with an incredible speed. The International Space Station is moving at close to 28,000 km/h so its location changes really fast! So fast that it just takes 90 minutes to orbits the earth. Soo where is it right now? To find it try the [script](#Here-is-a-small-Python-Script) or the [executable](#Here-is-a-small-Python-Script).
 
-To learn the dependencies to run the [script](#Here_is_a_small_Python_Script) (This part is not for the ones who just want to start the [whereisISS.exe](https://github.com/ArdaCet/International_Space_Station/blob/main/Executable/HereforDownload.md) )
+To learn the dependencies to run the [script](#Here-is-a-small-Python-Script) (This part is not for the ones who just want to start the [whereisISS.exe](https://github.com/ArdaCet/International_Space_Station/blob/main/Executable/HereforDownload.md) )
 
 ## What is ISS
 Even though space stations are awsome and magnificant, for me, it was difficult to find appropriate words to describe them. Here, I leave a paragraph below to provide some understanding and brief history of international space station which I believe one of the most rare and fabolous instance representing the solidarity of humanity. I feel that citing a part of text from the [wikipedia](https://en.wikipedia.org/wiki/International_Space_Station) would be concise and explanotory for specifying its significance for all of us.
