@@ -39,9 +39,13 @@ In case you do not any of them, below you can find the adresses to download.
 To reach the pipeline:
 [click](https://github.com/ArdaCet/International_Space_Station/tree/main/Script/whereisISS.py)
 
-or
+## or You are not in a mood of struggling with a command prompt?
+
+You can find the executable file below
 
 [click](https://github.com/ArdaCet/International_Space_Station/tree/main/Executable/ISS) to download the executable file on your system without needing any pre-set dependencies or programming language(s).
+
+> Note: Other operating systems must download the script to run it. So, you may want to check the above [section](#Here_is_a_small_Python_Script)
 
 ## Licenses
 The project is under the MIT licese so it can be used freely but it is not recommended to be used as a scientific purposes because of the possible sensitivity and specificity of the ISS locations data.
