@@ -13,7 +13,7 @@ Even though space stations are awsome and magnificant, for me, it was difficult 
 ## To acquire the API file for ISS coordinates
 The API retrieve the location points from the NASA's database.
 
-[API Doc](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+[API file](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 
 Here is a small demonstration of how it looks once code is run.
 ![newplot](https://user-images.githubusercontent.com/57831340/110324997-d163f180-8027-11eb-84ad-a859031e9cb1.png)
